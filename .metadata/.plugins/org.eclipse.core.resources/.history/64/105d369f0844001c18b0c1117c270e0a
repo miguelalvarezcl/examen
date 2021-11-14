@@ -1,0 +1,56 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>:::... Banco Platinum ...:::</title>
+</head>
+<body>
+	<div style="text-align: left">
+		<h1>Banco Platinum</h1>
+	</div>
+		<ul class="menu">
+			<li><a href="http://localhost:49670/CtaCorriente/">Usuarios</a></li>
+			<li><a href="http://localhost:49670/CtaCorriente/listPersonabd">Personas</a></li>
+			<li><a href="http://localhost:49670/CtaCorriente/listCuentabd">Cuentas Corrientes</a></li>
+			<li><a href="http://localhost:49670/CtaCorriente/listTransferencia">Transferencias</a></li>
+
+		</ul>	
+
+</body>
+</html>
+<style>
+body{
+	font-family: arial, helvetica;
+	background: #e8e8e8;
+}
+
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #A9A9A9;
+	width: 85%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #C0C0C0;
+}
+
+
+</style>

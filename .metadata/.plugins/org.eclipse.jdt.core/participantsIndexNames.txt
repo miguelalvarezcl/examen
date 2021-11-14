@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Power Beat\Desktop\INGENIERIA\ECLIPSE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2926298817.index
+\CtaCorriente\src
+C:\Users\Power Beat\Desktop\INGENIERIA\ECLIPSE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2468019920.index
+\login_web\src

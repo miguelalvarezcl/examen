@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Power Beat\Desktop\INGENIERIA\ECLIPSE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4111645634.index
+1122522975.index
+2926298817.index
+3568754216.index
+3355969411.index
+852857479.index
+1530367837.index
